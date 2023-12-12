@@ -1,0 +1,24 @@
+Hello, je suis [prénom]
+
+Je suis [job], je suis [basé / basée] à [ville], [pays] et j'ai [age] ans.
+Je suis [job] BackEnd freelance avec une spécialisation dans les API REST.
+
+J’aime Voyager et écouter de la musique. J’ai eu la chance de visiter certains pays tels que la Belgique, l’Espagne, l’Angleterre, la Pologne et Malte. Grâce à ces expériences de voyages, j’ai pu découvrir et apprendre de nouvelles cultures et enrichir mes compétences en langue étrangère (comme l’anglais et l’espagnol).
+
+J'ai aussi pu acquérir de nouvelles compétences liées aux bonnes pratiques et aux savoir-faire professionnels indispensables dans le métier de développeur web (gestion de projets, versioning, ...).
+
+Je possède également des compétences d'administration réseau, d'admininistration système Linux et quelques notions DevOps (Docker, Gitlab CI, ...). Libriste et linuxien, j'aime les temps conviviaux des install parties.
+
+J’aime exercer mon métier dans un environnement me permettant de partager mes compétences avec celles d’une équipe.
+
+
+
+Symfony		Laravel		Phalcon
+
+MySql		PostgreSql	Sqlite
+
+Postman		Insomnia	HTTPie
+
+☎
+
+
