@@ -113,10 +113,16 @@ header {
 #divHero {
     width: 100px;
 }
+
+
 .image {
     width: 100%;
     border-radius: 50%;
     background-color: #fff;
+}
+
+#hero p {
+    margin: 8px 0;
 }
 
 h2 {
